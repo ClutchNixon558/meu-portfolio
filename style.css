@@ -1,0 +1,35 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f0e6d6;
+}
+
+.section {
+    margin: 40px 0;
+    padding: 20px;
+    background-color: #fbf0e4;
+    border-radius: 8px;
+    border: 1px solid #e2d3c0;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Georgia', serif;
+    color: #6a5d53;
+    font-size: 70px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #6a5d53;
+    font-size: 18px;
+    margin: 300px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
